@@ -5,8 +5,8 @@ body{
 }
 
 :root{
-    --primary-color:#fcd34d
-    --light-black:#1e293b
+    --primary-color: #fcd34d;
+    --light-black: #1e293b;
 }
 
 hr{
@@ -92,10 +92,10 @@ hr{
 }
 
 .hero .hero-heading{
-    padding-top: 1rem;
+    padding-top: 2rem;
     color: var(--light-black);
 }
 
-.hero.hero-heading.heading-inverted{
+.hero .hero-heading .heading-inverted{
     color: var(--primary-color);
 }
